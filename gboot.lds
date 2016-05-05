@@ -1,6 +1,6 @@
 OUTPUT_ARCH(arm)
 ENTRY(_start)
-SECTONS{
+SECTIONS{
 	. = 0x30008000;
 
 	. = ALIGN(4);
