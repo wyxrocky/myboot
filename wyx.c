@@ -1,4 +1,0 @@
-
-
-enn
-#include <stdio.h>
